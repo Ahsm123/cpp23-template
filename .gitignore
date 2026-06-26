@@ -1,0 +1,6 @@
+build/
+*-dSYM/
+*.dSYM/
+*.o
+*.obj
+.cache/
